@@ -1,2 +1,2 @@
-#GraphQL Crash Course
+# GraphQL-Crash-Course
 A repo documenting my learnings of GraphQL
